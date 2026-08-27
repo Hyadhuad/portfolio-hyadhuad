@@ -1,3 +1,10 @@
+---
+type: iniciativa
+status: active
+quarter: 2026-Q3
+updated: 2026-08-27
+---
+
 # Hyadhuad — Portfólio
 
 Portfólio autoral de Tiago Hyadhuad. Uma página estática, rápida e responsiva para apresentar visão, sistemas, método e jornada.

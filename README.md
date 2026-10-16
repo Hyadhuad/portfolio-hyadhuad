@@ -1,7 +1,8 @@
 ---
 type: iniciativa
 status: active
-quarter: 2026-Q3
+quarter: 2026-Q4
+caixa: sustentacao
 updated: 2026-08-27
 ---
 

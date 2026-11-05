@@ -3,23 +3,17 @@ type: iniciativa
 status: active
 quarter: 2026-Q4
 caixa: sustentacao
-updated: 2026-08-27
+updated: 2026-11-05
 ---
 
 # Hyadhuad — Portfólio
 
-Portfólio autoral de Tiago Hyadhuad. Uma página estática, rápida e responsiva para apresentar visão, sistemas, método e jornada.
+Página estática de Hyadhuad, arquiteto de sistemas e membro fundador da Drayker: por que ele a constrói, a história, a arquitetura, o livro e a pesquisa. Em inglês na raiz (`index.html`) e em português em `pt/`.
 
 ## Publicação
 
-O conteúdo é publicado pelo GitHub Pages diretamente a partir da branch `main`. O domínio canônico é [hyadhuad.drayker.org](https://hyadhuad.drayker.org).
-
-## Personalização
-
-- Substitua os espaços identificados como retrato/foto pelas imagens finais.
-- Atualize os textos de cada sistema conforme os projetos evoluírem.
-- Adicione meios de contato ao bloco final quando estiverem definidos.
+Domínio canônico: [hyadhuad.drayker.org](https://hyadhuad.drayker.org) (arquivo `CNAME`). Usa os mesmos tokens visuais do drayker.org, do drayker.com e do drayker-theme.
 
 ## Desenvolvimento local
 
-Abra `index.html` diretamente ou sirva esta pasta com qualquer servidor HTTP estático.
+Sirva esta pasta com qualquer servidor HTTP estático, por exemplo `python3 -m http.server`.

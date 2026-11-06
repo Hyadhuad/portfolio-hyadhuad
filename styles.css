@@ -151,3 +151,5 @@ h2 { font-size: clamp(26px, 3.4vw, 42px); line-height: 1.08; font-weight: 700; m
 .head-links a.lang:hover { background: var(--accent); color: var(--bg); }
 
 .is-now .what .trait { color: var(--accent); border-color: var(--accent); }
+
+.contact-cta { color: var(--muted); max-width: 60ch; margin: -12px 0 26px; font-size: 17px; }
